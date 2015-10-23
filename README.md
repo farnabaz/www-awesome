@@ -7,3 +7,5 @@ Awesome stuffs may you need someday
 
 # CSS Stuff
 - [colinkeany.com/blend](http://colinkeany.com/blend/): Generate Simple and Beautiful CSS3 Gradient
+- [spritecow](http://www.spritecow.com/): Sprite Cow helps you get the background-position, width and height of sprites within a spritesheet as a nice bit of copyable css.
+- [bezierBuilder](http://www.roblaplaca.com/examples/bezierBuilder/): Create custom bezier curve to control animations timing
