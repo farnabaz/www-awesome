@@ -13,3 +13,8 @@ Awesome stuffs may you need someday
 # Placeholds
 - [Placehold.it](https://placehold.it/): A quick and simple image placeholder service.
 - [placekitten.com](https://placekitten.com/): A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code. 
+
+
+# Free high-resolution photos
+- [gratisography](http://www.gratisography.com/): Free high-resolution pictures you can use on your personal and commercial projects. All pictures were photographed by Ryan McGuire and free of copyright restrictions.
+- [unsplash](https://unsplash.com/): Free (do whatever you want) high-resolution photos. 10 new photos every 10 days.
