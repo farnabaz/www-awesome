@@ -13,6 +13,9 @@ Someday you may need it
 - [gratisography](http://www.gratisography.com/): Free high-resolution pictures you can use on your personal and commercial projects. All pictures were photographed by Ryan McGuire and free of copyright restrictions.
 - [unsplash](https://unsplash.com/): Free (do whatever you want) high-resolution photos. 10 new photos every 10 days.
 
+# Icons
+- [WeLoveSvg](https://icons8.com/welovesvg): Great collection of svg icons
+
 # Mockup Tools
 - [mockuphone](http://mockuphone.com/): Wrap your app screenshots in device mockup.
 
